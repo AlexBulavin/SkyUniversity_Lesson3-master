@@ -1,0 +1,61 @@
+<!--
+  ~ Copyright 2018, The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">SkyUniversity_Lesson3.git</string>
+    <string name="game_over">Проверка закончена</string>
+    <string name="try_again">Попробуем ещё?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="r4s_about">SkyUniversity Lesson3</string>
+    <string name="about_text"><![CDATA[<h2>    Питание и здоровье</h2>
+Планирование питания, исходя из персональных предпочтений и ограничений
+<br /> Интерактивная книга рецептов со встроенным запуском приготовления блюд в один клик
+<br /> Рекомендации по потреблению воды
+<br /> Контроль за показателями здоровья
+<br /> Напоминания о приеме лекарств и витаминов
+<h2>    E-commerce</h2>
+Голосовое или сенсорное формирование заказов продуктов питания и других товаров
+<br /> Создание регулярных заданий на совершение покупок
+<br /> Формирование рекомендаций по приобретению товаров на основании анализа потребительского поведения пользователя
+<br /> Расширенная программа лояльности
+<h2>    Дом и семья<h2>
+Создание домашней сети умных устройств
+<br /> Совместный доступ к управлению техникой и сервисами
+<br /> Планирование домашних задач
+<br /> Индивидуальный учет потребностей каждого члена семьи
+<h2>    Развлечения<h2>
+<br /> Создание и постинг контента в социальные сети с помощью персонального помощника
+<br /> Первая социальная сеть для владельцев IOT-решений
+<br /> Геймофикация пользователей внутри приложения]]>
+    </string>
+    <string name="rules_text">Выберите вариант ответа из списка. Если ответ будет правильным, будет предложен следу/щий вопрос.\n\nЕсли ответ будет неверным, проветка закончится. Можно вернуться в начало опроса используя стрелку или нативную кнопку Назад.</string>
+    <string name="rules">Правила</string>
+    <string name="about">О нас</string>
+    <string name="r4s_hint">R4S Hint</string>
+    <string name="title_android_trivia_question">SkyUniversity (%1$d/%2$d)</string>
+    <string name="title_about_trivia">О SkyUniversity</string>
+    <string name="title_trivia_rules">SkyUniversity правила</string>
+    <string name="share_success_text">Я успешно ответил на %1$d/%2$d вопросов #SkyUniversity! Ура, можете меня поздравить!</string>
+    <string name="submit_button">Ответить</string>
+    <string name="congratulations">Поздравляю!</string>
+    <string name="share">Поделиться</string>
+    <string name="sharing_not_available">Поделиться рзультатом невозможно :(</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Начать</string>
+    <string name="next_match">Ещё разок?</string>
+</resources>
